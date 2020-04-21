@@ -20,10 +20,13 @@ margin: 0 auto;
   padding-bottom: 100px;
 }
 
-.money
-{
-margin: 0 auto;
-  position: relative;
+.money{
+width: 50%;
+      height: 50%;
+      top: 25%;
+      margin: 0 auto;
+      position: relative;
+      background:orange;
 }
 .zoom3 {
   text-align: center;
