@@ -1,7 +1,7 @@
 
 
 body{
-  background-image: url("images/fist.gif");
+  background-image: "images/fist.gif";
    background-color: black;
 }
 header{
