@@ -64,6 +64,9 @@ font-size:40px;
 
 @media only screen 
   and (max-device-width: 812px) { 
+    .body{
+      background-color: white;
+    }
 .container{
     width:100%
    
