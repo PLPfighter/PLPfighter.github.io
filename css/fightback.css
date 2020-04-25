@@ -45,7 +45,7 @@ button {
   cursor: pointer;
 }
 .program{
-  display: flex; justify-content: center;
+   justify-content: center;
 }
 .zoom2{
   display: flex; justify-content: center;
