@@ -1,8 +1,7 @@
 
 
 body{
-background: url("http://static1.1.sqspcdn.com/static/f/461158/5247675/1262665090303/fist.gif?token=rB1xw5DtdV1pzV1Vh2qDu2i%2FxeQ%3D");   
-  background-color: black;
+
 }
 header{
   padding: 10px;
@@ -78,3 +77,7 @@ font-size:40px;
     
 }
 
+@media screen and (min-width : 1284px){
+  background: url("http://static1.1.sqspcdn.com/static/f/461158/5247675/1262665090303/fist.gif?token=rB1xw5DtdV1pzV1Vh2qDu2i%2FxeQ%3D");   
+  background-color: black;
+  }
