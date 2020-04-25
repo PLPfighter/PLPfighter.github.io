@@ -44,7 +44,9 @@ button {
   transition-duration: 0.4s;
   cursor: pointer;
 }
-
+.program{
+  display: flex; justify-content: center;
+}
 .zoom2{
   display: flex; justify-content: center;
 }
